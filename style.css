@@ -17,6 +17,7 @@ canvas{
     border-radius: 10px;
     box-shadow: grey;
     border: 2px solid whitesmoke;
+    margin-top: 80px;
 }
 
 #footer{
